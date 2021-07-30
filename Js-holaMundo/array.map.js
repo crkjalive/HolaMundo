@@ -25,7 +25,7 @@ console.log(multiplicados)
 
 
 
-// vamos a crear parejas de nuemeros.
+// vamos a crear parejas de numeros.
 const parejas = numeros.map(x => [x, x])
 console.log(parejas)
 /* [ [ 1, 1 ], [ 2, 2 ], [ 3, 3 ], [ 4, 4 ], [ 5, 5 ] ] */
@@ -54,7 +54,7 @@ console.log(resultado1)
 // 15
 
 // vamos a crear un arreglo de numeros, ya que no se pude usar la funcion suma sobre los objetos.
-// vamos a tranformar el arreglo a nuemros.
+// vamos a transformar el arreglo a numeros.
 
 const edades =  mascotas.map(x => x.edad)
 console.log(edades)

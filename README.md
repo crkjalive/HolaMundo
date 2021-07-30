@@ -1,2 +1,2 @@
 # HolaMundo
- Mis apuntes del canal Hola Mundo en javascript
+ Mis apuntes del canal Hola Mundo de Javascript
